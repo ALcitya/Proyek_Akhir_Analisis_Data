@@ -23,7 +23,7 @@ pip install streamlit
 
 ## Run Streamlit App
 ```bash
-streamlit run dashboard/dashboard.py
+streamlit run dasboard/dasboard.py
 ```
 
 ## Install requiremet Library
