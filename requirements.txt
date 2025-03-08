@@ -1,6 +1,7 @@
-# import pandas
-# import numpy
-# import scipy
-# import matplotlib
-# import seaborn,
-# import stremlit
+babe == 2.12.0
+matplotlib == 3.9.0
+numpy == 2.1.3
+pandas == 2.2.3
+scipy ==1.15.2
+streamlit == 1.43.0
+seaborn ==0.13.2
