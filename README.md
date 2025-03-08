@@ -17,7 +17,8 @@ pip install -r requirements.txt
 ```
 
 ## Install Streamlit
-``` pip install streamlit
+```bash
+pip install streamlit
 ```
 
 ## Run Streamlit App
@@ -26,6 +27,6 @@ streamlit run dashboard/dashboard.py
 ```
 
 ## Install requiremet Library
-```
+```bash
 pip install numpy pandas scipy matplotlib seaborn jupyter
 ```
