@@ -7,14 +7,14 @@ import seaborn as sns
 # Load data
 @st.cache_data
 def load_data_Day():
-    dfDay = pd.read_csv("../data/day.csv")
+    dfDay = pd.read_csv("data/day.csv")
     return dfDay
 
 dfDay = load_data_Day()
 
 @st.cache_data
 def load_data_Hour():
-    dfHour = pd.read_csv("../data/hour.csv")
+    dfHour = pd.read_csv("data/hour.csv")
     return dfHour
 
 dfHour = load_data_Hour()
